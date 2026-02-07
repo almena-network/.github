@@ -1,13 +1,32 @@
-# Almena ID
+<h1 align="center">Almena ID</h1>
 
-A decentralized identity platform built to give people and organizations full control over their digital identities. It allows users to create secure self-owned identities, receive verifiable credentials (certificates, licenses, memberships), and share them with any organization that needs to validate them — all without intermediaries or centralized databases. 🔐🌐
+<p align="center">
+  <strong>Decentralized identity. Owned by you. Trusted by everyone.</strong>
+</p>
+
+<p align="center">
+  <a href="https://almena.id">Website</a> &middot;
+  <a href="https://docs.almena.id">Documentation</a>
+</p>
+
+---
+
+## What is Almena ID?
+
+Almena ID is a decentralized identity platform that gives people and organizations full control over their digital identities. It enables users to create secure, self-owned identities, receive verifiable credentials (certificates, licenses, memberships), and share them with any organization that needs to validate them — all without intermediaries or centralized databases.
 
 The platform connects three essential roles:
 
-* Issuers – organizations that provide trusted digital credentials. 🏛️
-* Users – individuals who store credentials in their personal wallet and decide when to share them. 👤💼
-* Verifiers – entities that instantly confirm the authenticity of shared information. ✔️
+- **Issuers** — Organizations that provide trusted digital credentials (universities, government agencies, employers).
+- **Users** — Individuals who store credentials in their personal wallet and decide when, how, and with whom to share them.
+- **Verifiers** — Entities that instantly confirm the authenticity of shared information without contacting the issuer.
 
-Key principles include privacy by design, data minimization, and user sovereignty — ensuring that each person keeps full control of their information at all times. The goal is to simplify onboarding, reduce fraud, eliminate paperwork, and improve trust across sectors such as education, employment, healthcare, public services, and digital onboarding. 🚀
+## Core Principles
 
-The project combines decentralized identifiers, verifiable credentials, and distributed storage to create a future-ready identity ecosystem where trust flows smoothly and securely.
+| Principle | Description |
+|---|---|
+| **User Sovereignty** | Each person keeps full ownership and control of their identity and data at all times. |
+| **Privacy by Design** | Zero-knowledge architecture ensures that intermediaries never access personal information. |
+| **Data Minimization** | Only the minimum necessary information is shared during verification. |
+| **Interoperability** | Built on open standards (W3C DIDs, Verifiable Credentials, DIDComm v2). |
+| **Decentralization** | No single point of failure or control. Trust is distributed across the network. |
