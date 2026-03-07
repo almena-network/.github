@@ -1,19 +1,19 @@
-<h1 align="center">Almena ID</h1>
+<h1 align="center">Almena Network</h1>
 
 <p align="center">
   <strong>Decentralized identity. Owned by you. Trusted by everyone.</strong>
 </p>
 
 <p align="center">
-  <a href="https://almena.id">Website</a> &middot;
-  <a href="https://docs.almena.id">Documentation</a>
+  <a href="https://almena.network">Website</a> &middot;
+  <a href="https://docs.almena.network">Documentation</a>
 </p>
 
 ---
 
-## What is Almena ID?
+## What is Almena Network?
 
-Almena ID is a decentralized identity platform built on W3C standards (DIDs, Verifiable Credentials). It enables people and organizations to create, issue, and verify digital identities without intermediaries or centralized databases.
+Almena Network is a decentralized identity platform built on W3C standards (DIDs, Verifiable Credentials). It enables people and organizations to create, issue, and verify digital identities without intermediaries or centralized databases.
 
 The main repository is a monorepo orchestrated via Taskfile. It comprises several subprojects:
 
@@ -40,5 +40,5 @@ The main repository is a monorepo orchestrated via Taskfile. It comprises severa
 ## Quick Links
 
 - [Main repository](https://github.com/almena-id/almena-id) (monorepo)
-- [Website](https://almena.id)
-- [Documentation](https://docs.almena.id)
+- [Website](https://almena.network)
+- [Documentation](https://docs.almena.network)
