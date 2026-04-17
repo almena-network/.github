@@ -17,7 +17,7 @@ Almena Network is a decentralized identity platform built on W3C standards (DIDs
 
 The platform also grows toward decentralized applications, persistence, messaging, coordination, and ordering over time.
 
-The main repository is a monorepo orchestrated via Taskfile. It comprises several subprojects:
+The main repository is a monorepo. Most subprojects use **pnpm** and **cargo** directly; **`docs/`** and **`web/`** may use an optional **Taskfile** for their own builds. It comprises several subprojects:
 
 ---
 
